@@ -1,0 +1,1 @@
+ C:\\dev\\tenzi_za_rohoni\\lib\\gen\\l10n\\app_localizations_en.dart C:\\dev\\tenzi_za_rohoni\\lib\\gen\\l10n\\app_localizations_sw.dart C:\\dev\\tenzi_za_rohoni\\lib\\gen\\l10n\\app_localizations.dart:  C:\\dev\\tenzi_za_rohoni\\l10n.yaml C:\\dev\\tenzi_za_rohoni\\lib\\l10n\\app_en.arb C:\\dev\\tenzi_za_rohoni\\lib\\l10n\\app_sw.arb
